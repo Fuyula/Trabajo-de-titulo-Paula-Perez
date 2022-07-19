@@ -19,7 +19,9 @@ El presente readme describe brevemente los contenidos del repositorio. Para más
 
 Esta carpeta contiene los clústeres del diagrama de afinidad confeccionado a partir de las entrevistas y las observaciones de la segunda etapa del diseño centrado en personas, que consiste en comprender y especificar el contexto de uso.
 
-![Affinity diagram](/Assets/Affinity_diagram.png "Affinity diagram")
+<p align="center">
+  <img src="/Assets/Affinity_diagram.png" alt="drawing" height="400"/>
+</p>
 
 <div id='id2' />
 
@@ -29,14 +31,18 @@ El *Card sorting* es una técnica para descubrir la estructura jerárquica en un
 
 Esta carpeta contiene las fotos de los *card sortings* realizados durante la cuarta etapa de diseño centrado en personas, que consiste en generar soluciones de diseño.
 
-![Card sorting](/Assets/Card_sorting.jpeg "Card sorting")
+<p align="center">
+  <img src="/Assets/Card_sorting.jpeg" alt="drawing" height="400"/>
+</p>
 
 ## Encuesta
 Las encuestas son un método para obtener información sobre las características, pensamientos, sentimientos, percepciones, comportamientos y actitudes de un grupo de usuarios, brindada por los mismos encuestados. Son un método comúnmente utilizado para recopilar información sobre un número grande de personas. Suelen llevarse a cabo en forma de cuestionarios o entrevistas estructuradas. Al ser un instrumento que utiliza la propia percepción del usuario, puede resultar poco preciso para caracterizar a estos mismos, por lo que se recomienda usarlo en conjunto con otros métodos. Existen dos tipos de encuesta: las encuestas cerradas y las abiertas. Las encuestas cerradas tienen respuestas preestablecidas de las que el encuestado debe escoger, mientras que las encuestas abiertas permiten la discusión y/o respuestas elaboradas [Hanington & Martin19].
 
 Esta carpeta contiene las preguntas y la información porcentual de las respuestas (en gráficos circulares) de la encuesta sobre simbología realizada a personas de la tercera edad para elegir íconos para el prototipo de alta fidelidad de la aplicación.
 
-![Encuesta](/Assets/Encuesta.png "Encuesta")
+<p align="center">
+  <img src="/Assets/Encuesta.png" alt="drawing" height="400"/>
+</p>
 
 <div id='id4' />
 
@@ -47,7 +53,9 @@ En esta carpeta se encuentra un archivo PDF que contiene una imagen vectorizada 
 
 En el siguiente enlace se encuentra la pizarra de Miro que contiene el prototipo de baja fidelidad: [Prototipo de baja fidelidad](https://miro.com/welcomeonboard/Z2JxeVNvNHpob05OUHpOTmlmZENkVzczZm4zS2FBVDNDNTNYTG1tcUlxOGZTdUZjYzJKSXh2eXAxOG5tdlZPZHwzNDU4NzY0NTI3MzI1MTA4NDY0?share_link_id=973430622102)
 
-![Prototipo de baja fidelidad](/Assets/Prototipo_baja_fidelidad.jpg "Prototipo de baja fidelidad")
+<p align="center">
+  <img src="/Assets/Prototipo_baja_fidelidad.jpg" alt="drawing" height="400"/>
+</p>
 
 <div id='id5' />
 
@@ -62,7 +70,9 @@ En el siguiente enlace a Figma se encuentra el prototipo de alta fidelidad naveg
 
 En el siguiente enlace a Figma se encuentra el prototipo de alta fidelidad completo: [Prototipo de alta fidelidad completo](https://www.figma.com/file/iJYJR9tSMcVrr16V1XIgAu/Old-School-Aliadas?node-id=296%3A18666)
 
-![Prototipo de alta fidelidad](/Assets/Prototipo_alta_fidelidad.png "Prototipo de alta fidelidad")
+<p align="center">
+  <img src="/Assets/Prototipo_alta_fidelidad.png" alt="drawing" height="400"/>
+</p>
 
 <div id='id6' />
 
@@ -72,7 +82,9 @@ Las pruebas se diseñan en torno a tareas y escenarios que representan los objet
 
 Esta carpeta contiene los diagramas de afinidad generados a partir de los resultados de cada uno de los *testings*.
 
-![Testing](/Assets/Testings.png "Testing")
+<p align="center">
+  <img src="/Assets/Testings.png" alt="drawing" height="400"/>
+</p>
 
 <div id='id7' />
 
