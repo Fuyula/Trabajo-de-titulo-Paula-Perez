@@ -21,7 +21,8 @@ Esta carpeta contiene los clústeres del diagrama de afinidad confeccionado a pa
 
 <p align="center">
   <img src="/Assets/Affinity_diagram.png" alt="drawing" height="400"/>
-  Figura 1: *Affinity diagram*
+  <br>
+  Figura 1: <i>Affinity diagram</i>
 </p>
 
 <div id='id2' />
@@ -34,7 +35,8 @@ Esta carpeta contiene las fotos de los *card sortings* realizados durante la cua
 
 <p align="center">
   <img src="/Assets/Card_sorting.jpeg" alt="drawing" height="400"/>
-  Figura 2: *Card sorting*
+  <br>
+  Figura 2: <i>Card sorting</i>
 </p>
 
 ## Encuesta
@@ -44,6 +46,7 @@ Esta carpeta contiene las preguntas y la información porcentual de las respuest
 
 <p align="center">
   <img src="/Assets/Encuesta.png" alt="drawing" height="400"/>
+  <br>
   Figura 3: Encuesta
 </p>
 
@@ -58,6 +61,7 @@ En el siguiente enlace se encuentra la pizarra de Miro que contiene el prototipo
 
 <p align="center">
   <img src="/Assets/Prototipo_baja_fidelidad.jpg" alt="drawing" height="400"/>
+  <br>
   Figura 4: Prototipo de baja fidelidad
 </p>
 
@@ -76,6 +80,7 @@ En el siguiente enlace a Figma se encuentra el prototipo de alta fidelidad compl
 
 <p align="center">
   <img src="/Assets/Prototipo_alta_fidelidad.png" alt="drawing" height="400"/>
+  <br>
   Figura 5: Prototipo de alta fidelidad
 </p>
 
@@ -89,7 +94,8 @@ Esta carpeta contiene los diagramas de afinidad generados a partir de los result
 
 <p align="center">
   <img src="/Assets/Testings.png" alt="drawing" height="400"/>
-  Figura 6: *Testing*
+  <br>
+  Figura 6: <i>Testing</i>
 </p>
 
 <div id='id7' />
