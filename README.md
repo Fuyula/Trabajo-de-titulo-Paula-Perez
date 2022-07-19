@@ -29,7 +29,6 @@ Esta carpeta contiene los clústeres del diagrama de afinidad confeccionado a pa
 
 ## *Card sorting*
 El *Card sorting* es una técnica para descubrir la estructura jerárquica en un conjunto de conceptos al pedir a los usuarios agrupar los elementos escritos en un conjunto de tarjetas [Maguire01]. Se utiliza para identificar esquemas para organizar la navegación, menús y taxonomías. Se puede utilizar para desarrollar flujos de navegación que maximicen las posibilidades de que los usuarios puedan encontrar la información que necesitan [Hanington & Martin19].
-<div id='id3' />
 
 Esta carpeta contiene las fotos de los *card sortings* realizados durante la cuarta etapa de diseño centrado en personas, que consiste en generar soluciones de diseño.
 
@@ -38,6 +37,8 @@ Esta carpeta contiene las fotos de los *card sortings* realizados durante la cua
   <br>
   Figura 2: <i>Card sorting</i>.
 </p>
+
+<div id='id3' />
 
 ## Encuesta
 Las encuestas son un método para obtener información sobre las características, pensamientos, sentimientos, percepciones, comportamientos y actitudes de un grupo de usuarios, brindada por los mismos encuestados. Son un método comúnmente utilizado para recopilar información sobre un número grande de personas. Suelen llevarse a cabo en forma de cuestionarios o entrevistas estructuradas. Al ser un instrumento que utiliza la propia percepción del usuario, puede resultar poco preciso para caracterizar a estos mismos, por lo que se recomienda usarlo en conjunto con otros métodos. Existen dos tipos de encuesta: las encuestas cerradas y las abiertas. Las encuestas cerradas tienen respuestas preestablecidas de las que el encuestado debe escoger, mientras que las encuestas abiertas permiten la discusión y/o respuestas elaboradas [Hanington & Martin19].
