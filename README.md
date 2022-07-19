@@ -17,7 +17,7 @@ El presente readme describe brevemente los contenidos del repositorio. Para más
 ## *Affinity diagram*
 *Affinity Diagram* o Diagrama de Afinidad es una técnica usada para externalizar, dar sentido y organizar una gran cantidad de data desestructurada. Consiste en escribir la información recopilada en trozos de papel o *sticky notes* para posteriormente agruparla según su relación o algún otro criterio y categorizarla bajo etiquetas que representen los grupos formados [Lucero15].
 
-
+Esta carpeta contiene los clústeres del diagrama de afinidad confeccionado a partir de las entrevistas y las observaciones de la segunda etapa del diseño centrado en personas, que consiste en comprender y especificar el contexto de uso.
 
 <div id='id2' />
 
