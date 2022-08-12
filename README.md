@@ -108,4 +108,4 @@ Lucero, A. (2015). Using Affinity Diagrams to Evaluate Interactive Prototypes. 9
 
 Maguire, M. (2001). Methods to support human-centred design. International Journal of Human-Computer Studies, 55(4), 587–634. https://doi.org/10.1006/ijhc.2001.0503
 
-Pérez (2022). Evaluación de experiencia usuaria de personas de la tercera edad con la aplicación móvil para emprendimiento de mujeres Aliadas. 93.
+Pérez (2022). Evaluación de experiencia usuaria de personas de la tercera edad con la aplicación móvil para emprendimiento de mujeres Aliadas. 96.
